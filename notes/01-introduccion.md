@@ -46,6 +46,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 ```
 
 Guardamos y cerramos
+
 Luego en el terminal, ejecutar:
 
 ```
