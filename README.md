@@ -1,5 +1,9 @@
 # Spring framework 5
 
+El objetivo de este repositorio es servir de base documental del curso realizado en Udemy [Spring Framework 5: Creando webapp de cero a experto 2021](https://kairosds.udemy.com/course/spring-framework-5/)
+
+Construye aplicaciones web con Spring Framework 5 & Spring Boot: Thymeleaf, JPA, Security, REST, MySQL, Angular, WebFlux
+
 ## Temario
 
 1. [Introducción](notes/01-introduccion.md)
